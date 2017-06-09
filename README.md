@@ -34,5 +34,5 @@ The current list of constants includes the following:
 **TODO**
 
 - [ ] Integrate with [Unitful.jl](https://github.com/ajkeller34/Unitful.jl)
-- [ ] Consider giving the option of specifying the uncertainties (requires integration with [IntervalArithmetic](https://github.com/JuliaIntervals/IntervalArithmetic.jl) or [Measurements.jl](https://github.com/giordano/Measurements.jl) for example)
+- [ ] Consider giving the option of specifying the uncertainties (requires integration with [IntervalArithmetic.jl](https://github.com/JuliaIntervals/IntervalArithmetic.jl) or [Measurements.jl](https://github.com/giordano/Measurements.jl) for example)
 - [ ] Add more constants
